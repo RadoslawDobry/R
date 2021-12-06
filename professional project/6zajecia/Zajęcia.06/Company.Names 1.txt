@@ -1,0 +1,19 @@
+101	Acme
+102	Central Perk
+103	Cyberdyne
+104	Weyland-Yutani
+105	Tyrell Corporation
+106	Red Apple
+107	Monsters Inc.
+108	Full House
+111	MomCorp
+112	Rich Industries
+113	Warbucks Industries
+114	Wayne Enterprises
+115	Globex
+116	Wonka Industries
+117	Oceanic Airlines
+118	Clampett Oil
+119	Gringotts
+998	brak odpowiedzi
+999	nie wiem

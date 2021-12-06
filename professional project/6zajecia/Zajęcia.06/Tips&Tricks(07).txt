@@ -1,0 +1,13 @@
+Tips&Tricks:
+
+Restarting R session...:
+
+PC:	CTRL+SHIFT+F10
+MAC: Command+SHIFT+F10
+
+rm(list=ls())
+.rs.restartR()
+
+Closing all opened windows except current one
+
+CTRL + SHIFT + ALT + W
